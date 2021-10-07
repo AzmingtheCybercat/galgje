@@ -21,3 +21,5 @@ res1: winner winner chicken dinner juist
 req3: n
 
 res1: de n voor niet juist
+
+req4: a
