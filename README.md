@@ -22,4 +22,6 @@ req3: n
 
 res1: de n voor niet juist
 
-req4: a
+req4: a  
+
+Bas heeft het opgegeven rip
